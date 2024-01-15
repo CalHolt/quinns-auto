@@ -79,7 +79,7 @@
 <Footer />
 <style>
   .image {
-    background-image: url(../../images/pexels-daniel-andraski-13065696.jpg);
+    background-image: url($images/pexels-daniel-andraski-13065696.jpg);
     background-size: cover;
     background-position:25% 75%;
     background-repeat: no-repeat;
