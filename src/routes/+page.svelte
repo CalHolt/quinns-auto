@@ -20,7 +20,7 @@
 
 <!-- Services Section -->
 
-<h2 class="text-center text-4xl p-4">Services</h2>
+<h2 class="text-center text-4xl p-4 services">Services</h2>
 <div class="grid md:grid-cols-3 p-4 gap-6">
   <div class="flex flex-col p-4 card items-center justify-center service-card">
     <h4 class="text-2xl text-center">-Inspections-</h4>

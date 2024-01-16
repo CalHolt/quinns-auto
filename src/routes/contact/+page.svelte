@@ -9,7 +9,7 @@
 <h1 class="p-2 text-5xl md:text-7xl text-center">Contact</h1>
 <p class="px-2 text-center text-xl">Send us an E-Mail with any questions you may have. Make sure to include your vehicles year, make and model for the best response</p>
 <div class=" container flex flex-col items-center justify-center h-screen">
-<form class=" bg-white border border-black border-2" action="mailto:qasltd01@gmail.com" method="GET">
+<form class="justify-center bg-white border border-black border-2" action="mailto:qasltd01@gmail.com" method="GET">
   <div>
     <input class="text-xl" type="text" placeholder="Subject" name="subject" required />
   </div>
@@ -38,6 +38,7 @@ textarea, input, button, p{
   }
   .container {
     height: 75vh;
+    margin: auto;
   }
   input, textarea {
     width: 20rem;
